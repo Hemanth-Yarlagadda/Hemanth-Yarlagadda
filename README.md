@@ -1,4 +1,4 @@
-### Hi there, I'm Hemanth - aka [Alex_mercer][website] 👋
+### Hello there, I'm Hemanth - aka [Alex_mercer][website] 👋
 
 ## I'm an Eternal Student!
 - 🔭 I’m currently working on a [Python][site]!
