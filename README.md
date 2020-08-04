@@ -39,7 +39,6 @@
 
 ---
 
-<img align="left" alt="Hemanth Yarlagadda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [site]:https://www.hackerrank.com/hemanth_yarlag
 [website]: https://hemanth-yarlagadda.github.io/homepage/
