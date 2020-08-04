@@ -1,7 +1,7 @@
 ### Hi there, I'm Hemanth - aka [Alex_mercer][website] 👋
 
 ## I'm an Eternal Student!
-- 🔭 I’m currently working on a [Python][website]!
+- 🔭 I’m currently working on a [Python][site]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Dota 2 and chess
@@ -12,7 +12,7 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -41,7 +41,8 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
+[site]:https://www.hackerrank.com/hemanth_yarlag
+[website]: https://hemanth-yarlagadda.github.io/homepage/
 [twitter]: https://twitter.com/Hemanthyarlag
 [youtube]: https://www.youtube.com/channel/UCNKBaiAba8coOLUbm5boWhA
 [linkedin]: https://linkedin.com/in/hemanthyarlagadda
