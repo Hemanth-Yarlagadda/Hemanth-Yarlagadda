@@ -1,6 +1,6 @@
 ### Hello there, I'm Hemanth - aka [Alex_mercer][website] 👋
 
-## I'm an Eternal Student!
+## I'm a Student for eternity!
 - 🔭 I’m currently working on a [Python][site]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
