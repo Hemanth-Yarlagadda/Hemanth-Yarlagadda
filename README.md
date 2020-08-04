@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [Python][site]!
 - 🌱 Love to explore and experiment new things!!😄 
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Dota 2 and chess
+- ⚡ Fun fact: I love Dota 2[Dota2] and Chess
 
 ### Connect with me:
 
@@ -46,3 +46,5 @@
 [twitter]: https://twitter.com/Hemanthyarlag
 [youtube]: https://www.youtube.com/channel/UCNKBaiAba8coOLUbm5boWhA
 [linkedin]: https://linkedin.com/in/hemanthyarlagadda
+[Dota2]:https://www.dota2.com/play/
+[Chess]:https://en.wikipedia.org/wiki/Chess
