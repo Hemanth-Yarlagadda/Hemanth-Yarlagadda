@@ -2,7 +2,7 @@
 
 ## I'm a Student for eternity!
 - 🔭 I’m currently working on a [Python][site]!
-- 🌱 Love to explore and experiment new things!!😄 
+- 🌱 Love to explore and experiment new stuff!!😄 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing [Dota2],[Chess]
 
