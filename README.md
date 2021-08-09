@@ -1,4 +1,4 @@
-### Hello there, I'm Hemanth - aka Alex_mercer 👋🏼
+### Hello there, I'm Hemanth - aka [Alex_mercer][website] 👋🏼
 
 ## I'm a Student for eternity!
 -  ☁ Working on Cloud!!!
@@ -43,9 +43,8 @@
 
 
 [site]:https://www.hackerrank.com/hemanth_yarlag
-[website]: https://hemanth-yarlagadda.github.io/homepage/
+[website]: https://www.hemanthyarlagaddda.live
 [twitter]: https://twitter.com/Hemanthyarlag
 [youtube]: https://www.youtube.com/channel/UCNKBaiAba8coOLUbm5boWhA
-[linkedin]: https://linkedin.com/in/hemanthyarlagadda
 [Dota2]: https://www.dota2.com/play/
 [Chess]: https://en.wikipedia.org/wiki/Chess
