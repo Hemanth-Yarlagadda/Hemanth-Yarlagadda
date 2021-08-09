@@ -1,4 +1,4 @@
-### Hello there, I'm Hemanth - aka [Alex_mercer] 👋🏼
+### Hello there, I'm Hemanth - aka Alex_mercer 👋🏼
 
 ## I'm a Student for eternity!
 -  ☁ Working on Cloud!!!
