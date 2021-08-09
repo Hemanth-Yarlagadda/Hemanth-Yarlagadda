@@ -1,7 +1,7 @@
 ### Hello there, I'm Hemanth - aka [Alex_mercer][website] 👋🏼
 
 ## I'm a Student for eternity!
--  ☁ Working on Devops!!!
+-  ☁ Working on Cloud!!!
 - 🔭 I’m currently working on [Python][site]!
 - 🌱 Love to explore and experiment new stuff!!😄 
 - 🥅 2021 Goals: Contribute more to Open Source projects
