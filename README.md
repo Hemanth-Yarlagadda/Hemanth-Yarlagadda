@@ -1,4 +1,4 @@
-### Hello there, I'm Hemanth - aka [Alex_mercer][website] 👋🏼
+### Hello there, I'm Hemanth - aka [Alex_mercer][https://github.com/Hemanth-Yarlagadda/homepage] 👋🏼
 
 ## I'm a Student for eternity!
 -  ☁ Working on Cloud!!!
