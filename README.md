@@ -1,4 +1,4 @@
-### Hello there, I'm Hemanth - aka [Alex_mercer][website] 👋🏼
+### Hello there, I'm Hemanth - aka [Alex_mercer][website] 👋🏼<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Student for eternity!
 -  ☁ Working on Cloud!!!
