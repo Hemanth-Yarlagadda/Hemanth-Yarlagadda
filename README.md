@@ -1,10 +1,9 @@
 ### Hello there, I'm Hemanth - aka [Alex_mercer][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Student for eternity!
--  ☁ Working on Azure Cloud- AZ 104!!!
 - 🔭 I’m currently working on [Python][site]!
 - 🌱 Love to explore and experiment new stuff!!😄 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing [Dota2],[Chess]
 
 ### Connect with me:
