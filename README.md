@@ -33,7 +33,7 @@
 
 
 [site]:https://www.hackerrank.com/hemanth_yarlag
-[website]: https://www.hemanthyarlagaddda.live
+[website]: https://www.hemanthyarlagaddda.me
 [twitter]: https://twitter.com/Hemanthyarlag
 [youtube]: https://www.youtube.com/channel/UCNKBaiAba8coOLUbm5boWhA
 [Dota2]: https://www.dota2.com/play/
