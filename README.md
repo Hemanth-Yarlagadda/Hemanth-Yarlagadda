@@ -1,6 +1,8 @@
 ### Hello there, I'm Hemanth - aka [Alex_mercer][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Student for eternity!
+- 🔭 I’m currently working on [K8s][site]!
+- 🌱 Love to explore and experiment new stuff!!😄 
 - 🥅 2024 Goals: Contribute more to Open Source projects than previous years
 - ⚡ Fun fact: I love playing [Dota2],[Chess]
 
@@ -25,7 +27,7 @@
 <br />
 
 
-[site]: https://aws.amazon.com/eks/
+[site]:[https://github.com/kubernetes-sigs]
 [website]: https://www.hemanthyarlagaddda.me
 [twitter]: https://twitter.com/Hemanthyarlag
 [youtube]: https://www.youtube.com/channel/UCNKBaiAba8coOLUbm5boWhA
