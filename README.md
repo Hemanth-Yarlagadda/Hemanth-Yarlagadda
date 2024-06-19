@@ -25,7 +25,7 @@
 <br />
 
 
-[site]:https://aws.amazon.com/eks/
+[site]: https://aws.amazon.com/eks/
 [website]: https://www.hemanthyarlagaddda.me
 [twitter]: https://twitter.com/Hemanthyarlag
 [youtube]: https://www.youtube.com/channel/UCNKBaiAba8coOLUbm5boWhA
