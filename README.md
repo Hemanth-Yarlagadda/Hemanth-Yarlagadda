@@ -27,7 +27,7 @@
 <br />
 
 
-[site]:[https://github.com/kubernetes-sigs]
+[site]: https://github.com/kubernetes-sigs
 [website]: https://www.hemanthyarlagaddda.me
 [twitter]: https://twitter.com/Hemanthyarlag
 [youtube]: https://www.youtube.com/channel/UCNKBaiAba8coOLUbm5boWhA
