@@ -3,7 +3,7 @@
 ## I'm a Student for eternity!
 - 🔭 I’m currently working on [K8s][site]!
 - 🌱 Love to explore and experiment new stuff!!😄 
-- 🥅 2024 Goals: Contribute more to Open Source projects than previous years
+- 🥅 2025 Goals: Contribute more to Open Source projects than previous years
 - ⚡ Fun fact: I love playing [Dota2],[Chess]
 
 ### Connect with me:
